@@ -83,6 +83,15 @@ const Home = () => {
                 construido un objeto, se puede utilizar como plano (o prototipo)
                 para crear objetos similares.
               </p>
+
+              <p>
+                Las capacidades dinámicas de JavaScript incluyen la construcción
+                de objetos en tiempo de ejecución, listas de parámetros
+                variables, variables de función, creación dinámica de scripts (a
+                través de eval, introspección de objetos (a través de for...in)
+                y recuperación de código fuente (los programas JavaScript pueden
+                descompilar los cuerpos de las funciones en su texto fuente).
+              </p>
             </div>
           </Col>
         </Row>
